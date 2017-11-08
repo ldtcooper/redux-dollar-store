@@ -1,1 +1,3 @@
 # README
+
+Following along to an App Academy tutorial -- don't mind me...
